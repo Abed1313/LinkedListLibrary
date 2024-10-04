@@ -1,5 +1,6 @@
-﻿The DeleteDuplicates method is designed to remove duplicate values from a singly linked list. Here's a detailed breakdown of how it works:
+Whiteboard
 [Link](https://github.com/Abed1313/LinkedListLibrary/blob/master/StudyLinkedList/assest/DeleteDuplicates.jpg)
+ The DeleteDuplicates method is designed to remove duplicate values from a singly linked list. Here's a detailed breakdown of how it works:
 
 Explanation:
 Initialize Current Pointer:
