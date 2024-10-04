@@ -1,5 +1,6 @@
 ﻿Description of the RotateLeft Method
-[Link]()
+ 
+Whiteboard [Link](https://github.com/Abed1313/LinkedListLibrary/blob/master/StudyLinkedList/assest/RotateLeft.jpg)
 
 The RotateLeft method rotates the linked list to the left by a specified number of positions, K. Here’s a detailed breakdown of how the method functions:
 
