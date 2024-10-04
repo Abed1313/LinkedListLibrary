@@ -1,5 +1,6 @@
 ﻿This method, RemoveFirst, is designed to remove the first node from a singly linked list.
-[Link]()
+ 
+Whiteboard [Link](https://github.com/Abed1313/LinkedListLibrary/blob/master/StudyLinkedList/assest/RemoveFirst.jpg)
 
 Here’s a breakdown of how it works:
 
