@@ -1,5 +1,6 @@
 ﻿The IsSorted method is designed to determine whether the elements in a singly linked list are sorted in ascending order. Here’s a detailed breakdown of how it works:
-[Link]()
+ 
+Whiteboard [Link](https://github.com/Abed1313/LinkedListLibrary/blob/master/StudyLinkedList/assest/IsSorted.jpg)
 
 Explanation:
 Initialize Pointer:
