@@ -1,6 +1,6 @@
 ﻿Description of the GetLinkedListData Method
  
-[Link](https://github.com/Abed1313/LinkedListLibrary/blob/master/StudyLinkedList/assest/GetLinkedListData.jpg)
+Whiteboard [Link](https://github.com/Abed1313/LinkedListLibrary/blob/master/StudyLinkedList/assest/GetLinkedListData.jpg)
 
 The GetLinkedListData method retrieves all the data values from a linked list and returns them as an array. Here’s a detailed breakdown of how the method works:
 
