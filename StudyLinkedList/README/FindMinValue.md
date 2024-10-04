@@ -1,5 +1,6 @@
-﻿The FindMinValue method is designed to find and return the minimum value in a singly linked list. Here’s a detailed breakdown of its implementation:
-[Link]()
+Whiteboard [Link](https://github.com/Abed1313/LinkedListLibrary/blob/master/StudyLinkedList/assest/FindMinValue.jpg)
+ 
+ The FindMinValue method is designed to find and return the minimum value in a singly linked list. Here’s a detailed breakdown of its implementation:
 
 Explanation:
 Check for Empty List:
