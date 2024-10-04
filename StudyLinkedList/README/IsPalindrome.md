@@ -1,5 +1,6 @@
 ﻿Description of the IsPalindrome Method
-[Link]()
+ 
+Whiteboard [Link](https://github.com/Abed1313/LinkedListLibrary/blob/master/StudyLinkedList/assest/IsPalindrome.jpg)
 
 The IsPalindrome method checks whether the elements in a linked list form a palindrome. A palindrome is a sequence that reads the same backward as forward. Here’s a breakdown of how the method works:
 
