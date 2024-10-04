@@ -1,5 +1,6 @@
-﻿The DetectCycle method is designed to determine whether a singly linked list contains a cycle (i.e., a situation where a node's next pointer points to a previous node in the list). Here’s a detailed breakdown of how this method works:
-[Link]()
+Whiteboard [Link](https://github.com/Abed1313/LinkedListLibrary/blob/master/StudyLinkedList/assest/DetectCycle.jpg)
+ 
+The DetectCycle method is designed to determine whether a singly linked list contains a cycle (i.e., a situation where a node's next pointer points to a previous node in the list). Here’s a detailed breakdown of how this method works:
 
 Explanation:
 Check for Empty or Single Node List:
