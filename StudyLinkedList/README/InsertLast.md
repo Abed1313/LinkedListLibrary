@@ -1,5 +1,6 @@
 ﻿Method: InsertLast(int data)
-[Link]()
+ 
+Whiteboard [Link](https://github.com/Abed1313/LinkedListLibrary/blob/master/StudyLinkedList/assest/InsertLast.jpg)
 
 The InsertLast method appends a new node containing the specified data to the end of a singly linked list.
 
