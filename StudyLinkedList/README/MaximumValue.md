@@ -1,5 +1,6 @@
 ﻿The MaximumValue method is designed to find and return the maximum value stored in a singly linked list. Here’s a detailed breakdown of how it works:
-[Link]()
+ 
+Whiteboard [Link](https://github.com/Abed1313/LinkedListLibrary/blob/master/StudyLinkedList/assest/MaximumValue.jpg)
 
 Explanation:
 Check if the List is Empty:
