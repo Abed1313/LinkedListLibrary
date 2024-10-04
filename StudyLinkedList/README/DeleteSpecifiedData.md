@@ -1,5 +1,6 @@
-﻿The DeleteSpecifiedData method is designed to remove a node containing a specified value from a singly linked list. Here’s a breakdown of how the method works:
-[Link]()
+Whiteboard [Link](https://github.com/Abed1313/LinkedListLibrary/blob/master/StudyLinkedList/assest/DeleteSpecifiedData.jpg)
+ 
+The DeleteSpecifiedData method is designed to remove a node containing a specified value from a singly linked list. Here’s a breakdown of how the method works:
 
 Explanation:
 Initialize Pointers:
