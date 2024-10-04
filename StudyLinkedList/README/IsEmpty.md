@@ -1,5 +1,6 @@
 ﻿The IsEmpty method is intended to check whether a singly linked list is empty. However, the implementation has some redundancies and a potential logical flaw. Here's a detailed breakdown of the method, along with suggestions for improvement:
-[Link]()
+ 
+Whiteboard [Link](https://github.com/Abed1313/LinkedListLibrary/blob/master/StudyLinkedList/assest/IsEmpty.jpg)
 
 Explanation:
 Initialize Pointer:
