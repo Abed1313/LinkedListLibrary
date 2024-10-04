@@ -1,5 +1,6 @@
-﻿The Find method is designed to search for a specific value in a singly linked list and return it if found. Here’s a breakdown of how it works:
-[Link]()
+Whiteboard [Link](https://github.com/Abed1313/LinkedListLibrary/blob/master/StudyLinkedList/assest/Find.jpg)
+ 
+ The Find method is designed to search for a specific value in a singly linked list and return it if found. Here’s a breakdown of how it works:
 
 Explanation:
 Initialize Pointer:
