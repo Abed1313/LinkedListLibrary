@@ -1,5 +1,6 @@
 ﻿Linked List - InsertFirst Method
-[Link]()
+ 
+Whiteboard [Link](https://github.com/Abed1313/LinkedListLibrary/blob/master/StudyLinkedList/assest/InsertFirst.jpg)
 
 Overview
 This repository demonstrates the InsertFirst method in a singly linked list. The method allows you to insert a new node with a specified data value at the beginning of the linked list.
