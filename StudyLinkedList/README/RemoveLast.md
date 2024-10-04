@@ -1,5 +1,6 @@
 ﻿The RemoveLast method is designed to remove the last node from a singly linked list.
-[Link]()
+ 
+Whiteboard [Link](https://github.com/Abed1313/LinkedListLibrary/blob/master/StudyLinkedList/assest/RemoveLast.jpg)
 
 Here’s a detailed explanation of how it works:
 
